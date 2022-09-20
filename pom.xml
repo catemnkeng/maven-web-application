@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.201.110.37:8081/repository/myweb-snapshots/</url>
+	      <name>Caleb's Tech Releases Nexus Repository</name>
+	      <url>http://44.201.110.37:8081/repository/myweb-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.110.37:8081/repository/myweb-releases/</url>
+	      <name>Caleb's Tech Snapshot Nexus Repository </name>
+	      <url>http://44.201.110.37:8081/repository/myweb-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
