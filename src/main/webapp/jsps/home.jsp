@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Caleb's Tech world and Co.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030.
+	           We are raising over 1m millionaires by 2030. Today's date is 9/22/2022
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance with a 100% guarantee.</h1>
 <hr>
 <br>
