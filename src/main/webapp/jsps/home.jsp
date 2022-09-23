@@ -14,7 +14,7 @@
 	           We are raising over 1m millionaires by 2030. Today's date is 9/22/2022
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance with a 100% guarantee.</h1>
 
-	<link href="images/penguin.jpeg" rel="icon">
+	<link href="images/penguin.jpg" rel="icon">
 	<hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
